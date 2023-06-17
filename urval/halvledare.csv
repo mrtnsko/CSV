@@ -1,19 +1,19 @@
-Symbol,Company
-TSM, Taiwan Semiconductor
-INTC, Intel
-NVDA, NVIDIA
-AMD, Advanced Micro Devices
-QCOM, Qualcomm Incorporated
-AVGO, Broadcom Inc.
-TXN, Texas Instruments
-MU, Micron Technology
-AMAT, Applied Materials
-NXPI, NXP Semiconductor
-ASML, ASML Holding
-LRCX, Lam Research Corporation
-WDC, Western Digital Corporation
-KLAC, KLA Corporation
-MDTKF, MediaTek Inc.
-IFNNY, Infineon Technologies AG
-MCHP, Microchip Technology Incorporated
-
+Ticker,Name,Symbol
+TSM,Taiwan Semiconductor,TSM
+INTC,Intel,INTC
+NVDA,NVIDIA,NVDA
+AMD,Advanced Micro Devices,AMD
+QCOM,Qualcomm Incorporated,QCOM
+AVGO,Broadcom Inc.,AVGO
+TXN,Texas Instruments,TXN
+MU,Micron Technology,MU
+AMAT,Applied Materials,AMAT
+NXPI,NXP Semiconductor,NXPI
+ASML,ASML Holding,ASML
+LRCX,Lam Research Corporation,LRCX
+WDC,Western Digital Corporation,WDC
+KLAC,KLA Corporation,KLAC
+MDTKF,MediaTek Inc.,MDTKF
+IFNNY,Infineon Technologies AG,IFNNY
+MCHP,Microchip Technology Incorporated,MCHP
+,,

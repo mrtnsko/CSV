@@ -1,30 +1,30 @@
-Symbol,Name
-ASSA-B.ST, Assa Abloy AB
-INVE-B.ST, Investor AB
-ERIC-B.ST, Telefonaktiebolaget LM Ericsson
-AZN.ST, AstraZeneca AB
-TELIA.ST, Telia Company AB
-ABB.ST, ABB Ltd
-ESSITY-B.ST, Essity AB
-GETI-B.ST, Getinge AB
-ATCO-B.ST, Atlas Copco AB
-ALFA.ST, Alfa Laval AB
-EVO.ST, Evolution AB
-NDA-SE.ST, Nordea Bank Abp
-SEB-A.ST, Skandinaviska Enskilda Banken AB
-SHB-A.ST, Svenska Handelsbanken AB
-HEXA-B.ST, Hexagon AB
-HM-B.ST, Hennes & Mauritz AB
-SWED-A.ST, Swedbank AB
-VOLV-B.ST, AB Volvo
-VOLV-A.ST, AB Volvo (A-aktien)
-SCA-B.ST, Svenska Cellulosa Aktiebolaget SCA (publ)
-ALIV-SDB.ST, Autoliv Inc
-KINV-B.ST, Kinnevik AB
-ELUX-B.ST, Electrolux AB
-TEL2-B.ST, Tele2 AB
-SAND.ST, Sandvik AB
-SKF-B.ST, AB SKF
-SINCH.ST, Sinch AB
-BOL.ST, Boliden AB
-SBB-B.ST, Samhällsbyggnadsbolaget i Norden AB
+Symbol,Name,Ticker
+ASSA-B.ST,Assa Abloy AB,ASSA-B.ST
+INVE-B.ST,Investor AB,INVE-B.ST
+ERIC-B.ST,Telefonaktiebolaget LM Ericsson,ERIC-B.ST
+AZN.ST,AstraZeneca AB,AZN.ST
+TELIA.ST,Telia Company AB,TELIA.ST
+ABB.ST,ABB Ltd,ABB.ST
+ESSITY-B.ST,Essity AB,ESSITY-B.ST
+GETI-B.ST,Getinge AB,GETI-B.ST
+ATCO-B.ST,Atlas Copco AB,ATCO-B.ST
+ALFA.ST,Alfa Laval AB,ALFA.ST
+EVO.ST,Evolution AB,EVO.ST
+NDA-SE.ST,Nordea Bank Abp,NDA-SE.ST
+SEB-A.ST,Skandinaviska Enskilda Banken AB,SEB-A.ST
+SHB-A.ST,Svenska Handelsbanken AB,SHB-A.ST
+HEXA-B.ST,Hexagon AB,HEXA-B.ST
+HM-B.ST,Hennes & Mauritz AB,HM-B.ST
+SWED-A.ST,Swedbank AB,SWED-A.ST
+VOLV-B.ST,AB Volvo,VOLV-B.ST
+VOLV-A.ST,AB Volvo (A-aktien),VOLV-A.ST
+SCA-B.ST,Svenska Cellulosa Aktiebolaget SCA (publ),SCA-B.ST
+ALIV-SDB.ST,Autoliv Inc,ALIV-SDB.ST
+KINV-B.ST,Kinnevik AB,KINV-B.ST
+ELUX-B.ST,Electrolux AB,ELUX-B.ST
+TEL2-B.ST,Tele2 AB,TEL2-B.ST
+SAND.ST,Sandvik AB,SAND.ST
+SKF-B.ST,AB SKF,SKF-B.ST
+SINCH.ST,Sinch AB,SINCH.ST
+BOL.ST,Boliden AB,BOL.ST
+SBB-B.ST,Samhällsbyggnadsbolaget i Norden AB,SBB-B.ST
